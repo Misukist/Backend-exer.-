@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes
+Content-Type: apllication/json
+
+{
+    "content": "VS code rest client is a preperred",
+    "important": true
+}
