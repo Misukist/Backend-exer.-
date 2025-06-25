@@ -1,7 +1,7 @@
 POST http://localhost:3001/api/notes
-Content-Type: apllication/json
+Content-type: application/json
 
 {
-    "content": "VS code rest client is a preperred",
+    "content": "VS code rest client is a preferred",
     "important": true
 }
